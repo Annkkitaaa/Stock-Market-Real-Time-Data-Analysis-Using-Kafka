@@ -28,3 +28,5 @@ Technology Used
 * Glue Catalog
 * EC2
 * Kafka
+
+kafka is used for 
