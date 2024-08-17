@@ -29,4 +29,4 @@ Technology Used
 * EC2
 * Kafka
 
-kafka is used for 
+
